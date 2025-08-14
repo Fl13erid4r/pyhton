@@ -1,0 +1,1 @@
+# Placeholder for core/__init__.py - full code is in documentation

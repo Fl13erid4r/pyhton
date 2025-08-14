@@ -1,0 +1,1 @@
+# Placeholder for app/schemas/user_schema.py - full code is in documentation
